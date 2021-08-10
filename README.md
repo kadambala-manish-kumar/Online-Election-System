@@ -1,2 +1,2 @@
 # Online-Election-System
-Studebt election
+Student election
